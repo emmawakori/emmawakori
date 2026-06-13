@@ -1,5 +1,4 @@
-Hi, I'm Emma Wakori
-About Me
+Hi there, I'm Emma Wakori
 I'm currently learning Programming.
 I'm interested in AI, web development, and data science.
 Skills I'm Building, Git and GitHub
