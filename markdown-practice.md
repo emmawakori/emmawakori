@@ -1,11 +1,14 @@
 ## My Learning Goals
 ### This Semester
 **Am learning** *programming* 'using git'
+
 [Emma Wakori](https://github.com/emmawakori)
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 -debugging
 -cooding
 -proogramming languages
+
 1. Check the repository status 
 2. Stage the changes
 3. Commit the changes  
