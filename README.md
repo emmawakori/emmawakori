@@ -1,9 +1,9 @@
-# Hi, I'm Emma Kaiuki
+# Hi, I'm Emma Wakori
 
 ## About Me
 - I'm currently learning programming.
-- I'm interested AI, web development, and data science
-- I'm looking to collaborate on 
+- I'm interested in AI, web development, and data science.
+- I'm looking to collaborate on beginner_friendly pojects.
 
 ## Skills I'm Building
 - Git and GitHub
