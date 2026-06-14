@@ -1,8 +1,18 @@
-Hi there, I'm Emma Wakori
-I'm currently learning Programming.
-I'm interested in AI, web development, and data science.
-Skills I'm Building, Git and GitHub. 
-How to Reach Me
- Email:emmawakori@gmail.com
- LinkedIn: Emmalyne Kariuki
+# Hi, I'm Emma Kaiuki
+
+## About Me
+- I'm currently learning programming.
+- I'm interested AI, web development, and data science
+- I'm looking to collaborate on 
+
+## Skills I'm Building
+- Git and GitHub
+  Python,HTML/CSS,javascript
+
+## Current Projects
+creating a website
+
+## How to Reach Me
+- Email: emmawakori@gmail.cm
+- LinkedIn: Emmalyne Kariuki
 
