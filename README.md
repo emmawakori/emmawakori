@@ -13,6 +13,6 @@
 creating a website
 
 ## How to Reach Me
-- Email: emmawakori@gmail.cm
+- Email: emmawakori@gmail.com
 - LinkedIn: Emmalyne Kariuki
 
