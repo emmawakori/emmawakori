@@ -16,6 +16,5 @@ creating a website
 - Email: emmawakori@gmail.com
 - LinkedIn: Emmalyne Kariuki
 - Telegram: Clare Emmyz
-- Tel: +254719862035
-- 
+  
 
