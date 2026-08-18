@@ -47,15 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emmawakori&show_icons=true&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmawakori&layout=compact&hide_border=true" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
