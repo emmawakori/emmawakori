@@ -15,13 +15,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 I'm currently building my skills as a software developer
-- 🌱 Learning **Python, HTML/CSS, and JavaScript**, with a growing interest in **Git & GitHub** workflows
-- 💡 Passionate about **AI, Web Development, and Data Science**
-- 🤝 Looking to collaborate on **beginner-friendly projects**
-- 📫 Reach me at **emmawakori@gmail.com**
+-  I'm currently building my skills as a software developer
+-  Learning **Python, HTML/CSS, and JavaScript**, with a growing interest in **Git & GitHub** workflows
+-  Passionate about **AI, Web Development, and Data Science**
+-  Looking to collaborate on **beginner-friendly projects**
+-  Reach me at **emmawakori@gmail.com**
 
 ---
 
